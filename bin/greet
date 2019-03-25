@@ -7,4 +7,5 @@ puts name
 name = name.chomp
 puts name
 name = name.strip
+puts name
 greeting(name)
